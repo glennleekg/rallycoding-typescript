@@ -1,0 +1,25 @@
+{
+  "name": "rallycoding-typescript",
+  "version": "1.0.0",
+  "description": "Master Typescript by learning popular design patterns and building complex projects.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/glennleekg/rallycoding-typescript"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Glenn Lee <glennleekg@gmail.com> (https://github.com/glennleekg)",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.47.0",
+    "@typescript-eslint/parser": "^5.47.0",
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.8.1"
+  }
+}
